@@ -1,0 +1,501 @@
+Date,Category,Amount,Payment_Method
+2026-03-30,Transportation,207.77,Credit Card
+2025-05-12,Transportation,214.43,Cash
+2025-06-08,Shopping,56.72,Debit Card
+2025-07-18,Shopping,20.18,Credit Card
+2025-11-17,Healthcare,27.28,UPI
+2025-06-12,Entertainment,158.04,Credit Card
+2025-10-24,Utilities,98.4,Cash
+2025-06-20,Entertainment,59.88,Cash
+2026-01-30,Shopping,29.78,Debit Card
+2025-05-02,Rent/Mortgage,1040.31,Credit Card
+2026-03-01,Entertainment,203.91,Cash
+2025-11-03,Food & Dining,106.24,Debit Card
+2025-09-02,Utilities,94.36,Cash
+2025-11-25,Food & Dining,40.56,Credit Card
+2026-01-26,Rent/Mortgage,619.89,Credit Card
+2025-11-20,Transportation,114.96,Debit Card
+2025-09-27,Shopping,94.73,Credit Card
+2026-02-18,Healthcare,139.26,Cash
+2025-06-30,Utilities,244.16,UPI
+2025-10-30,Entertainment,299.4,Credit Card
+2026-04-07,Food & Dining,137.54,Debit Card
+2026-03-03,Healthcare,287.64,Debit Card
+2026-02-26,Utilities,116.27,Credit Card
+2026-02-09,Utilities,124.87,Debit Card
+2025-12-20,Food & Dining,79.09,UPI
+2025-06-10,Entertainment,243.1,UPI
+2025-11-02,Rent/Mortgage,1446.4,Credit Card
+2025-07-24,Transportation,298.8,UPI
+2025-07-23,Entertainment,38.19,Cash
+2026-02-15,Utilities,102.53,Debit Card
+2026-02-12,Entertainment,64.33,Debit Card
+2025-12-15,Shopping,63.99,UPI
+2025-06-25,Utilities,28.32,Debit Card
+2026-03-07,Rent/Mortgage,1292.11,Debit Card
+2025-08-21,Rent/Mortgage,1364.61,Debit Card
+2026-02-28,Healthcare,236.34,Cash
+2025-09-09,Healthcare,116.26,Credit Card
+2025-05-21,Utilities,33.51,Debit Card
+2025-11-26,Food & Dining,26.27,Cash
+2025-09-30,Shopping,94.75,Debit Card
+2026-01-07,Utilities,159.9,Cash
+2025-04-29,Entertainment,134.03,Debit Card
+2025-05-12,Rent/Mortgage,753.79,Credit Card
+2025-06-05,Shopping,41.05,Debit Card
+2026-01-05,Transportation,209.44,UPI
+2026-02-15,Entertainment,244.67,UPI
+2025-10-08,Food & Dining,59.97,Cash
+2025-08-20,Transportation,76.34,Credit Card
+2025-07-22,Utilities,50.51,Credit Card
+2025-11-17,Healthcare,22.46,Credit Card
+2026-02-17,Entertainment,119.25,Credit Card
+2025-06-07,Utilities,35.99,Debit Card
+2025-10-14,Food & Dining,40.05,Debit Card
+2026-04-15,Utilities,158.5,Debit Card
+2025-09-15,Entertainment,100.59,Cash
+2026-04-03,Utilities,28.52,UPI
+2025-09-06,Transportation,182.8,Credit Card
+2025-08-30,Entertainment,137.44,Debit Card
+2025-08-05,Transportation,242.67,UPI
+2026-02-15,Transportation,97.95,UPI
+2026-01-18,Healthcare,216.17,UPI
+2025-07-11,Transportation,162.48,Debit Card
+2025-10-18,Utilities,101.32,Credit Card
+2025-12-05,Shopping,74.73,Credit Card
+2026-02-17,Utilities,62.43,Credit Card
+2026-03-31,Rent/Mortgage,538.68,Credit Card
+2026-03-06,Entertainment,208.78,UPI
+2025-07-10,Entertainment,232.66,Credit Card
+2026-01-27,Entertainment,292.71,Cash
+2025-06-17,Utilities,92.31,Debit Card
+2026-03-17,Healthcare,112.15,Debit Card
+2026-02-21,Rent/Mortgage,1081.25,Cash
+2025-06-16,Utilities,71.25,Debit Card
+2025-11-22,Food & Dining,98.76,Debit Card
+2025-12-14,Food & Dining,53.93,Debit Card
+2026-02-25,Healthcare,25.78,Debit Card
+2025-07-15,Healthcare,159.61,Credit Card
+2025-12-22,Healthcare,227.41,Debit Card
+2025-05-26,Food & Dining,122.55,UPI
+2026-01-10,Rent/Mortgage,722.04,Cash
+2025-08-26,Utilities,90.26,Debit Card
+2026-03-19,Entertainment,79.15,Credit Card
+2025-08-25,Healthcare,209.26,Credit Card
+2025-05-27,Utilities,124.94,Credit Card
+2025-07-03,Rent/Mortgage,1253.42,Credit Card
+2025-07-11,Rent/Mortgage,708.14,Credit Card
+2026-02-21,Rent/Mortgage,535.8,UPI
+2025-05-26,Transportation,241.52,UPI
+2025-06-23,Food & Dining,43.88,Cash
+2025-08-21,Transportation,41.32,Debit Card
+2026-04-06,Transportation,114.05,Cash
+2025-05-11,Transportation,277.1,UPI
+2025-08-11,Transportation,215.58,UPI
+2026-01-24,Healthcare,240.7,Cash
+2025-07-21,Shopping,107.46,Credit Card
+2025-05-18,Entertainment,29.48,Debit Card
+2025-07-18,Shopping,66.63,Credit Card
+2025-06-18,Rent/Mortgage,984.58,Cash
+2026-03-04,Shopping,14.34,Debit Card
+2025-07-05,Shopping,13.02,Debit Card
+2026-01-20,Food & Dining,15.57,UPI
+2025-09-23,Food & Dining,77.21,Debit Card
+2026-01-04,Food & Dining,11.76,Cash
+2026-04-09,Rent/Mortgage,862.15,Cash
+2025-04-29,Food & Dining,65.01,UPI
+2025-09-06,Transportation,83.24,Debit Card
+2025-07-12,Entertainment,85.63,UPI
+2025-11-23,Shopping,128.84,Cash
+2025-08-26,Entertainment,76.05,Debit Card
+2025-10-25,Entertainment,182.82,Debit Card
+2025-11-08,Food & Dining,58.29,Credit Card
+2026-03-07,Shopping,127.2,Debit Card
+2026-04-11,Utilities,45.76,Cash
+2025-09-26,Shopping,55.69,Cash
+2026-04-13,Transportation,222.29,Credit Card
+2025-11-07,Healthcare,91.06,UPI
+2025-12-04,Entertainment,271.92,Cash
+2026-03-15,Entertainment,186.15,UPI
+2025-07-11,Healthcare,236.06,UPI
+2025-08-11,Rent/Mortgage,903.84,UPI
+2025-09-03,Utilities,216.67,Credit Card
+2026-03-06,Healthcare,276.27,UPI
+2025-09-04,Transportation,296.53,Debit Card
+2025-05-24,Transportation,40.57,Debit Card
+2026-02-25,Transportation,176.92,Credit Card
+2026-01-01,Rent/Mortgage,1025.57,UPI
+2025-06-01,Shopping,54.3,UPI
+2025-11-21,Transportation,77.22,Cash
+2026-03-05,Shopping,126.55,Cash
+2025-04-20,Healthcare,260.67,Cash
+2025-05-12,Transportation,37.07,Credit Card
+2025-12-12,Shopping,58.78,Cash
+2025-12-06,Rent/Mortgage,604.71,UPI
+2025-06-04,Rent/Mortgage,1027.68,Credit Card
+2025-10-05,Rent/Mortgage,929.32,Credit Card
+2025-04-27,Transportation,208.1,Cash
+2025-10-29,Transportation,76.13,Debit Card
+2026-03-08,Shopping,124.24,Cash
+2026-01-12,Healthcare,199.87,UPI
+2025-09-03,Entertainment,272.34,Debit Card
+2025-08-08,Shopping,67.27,Debit Card
+2025-06-09,Healthcare,234.42,Credit Card
+2025-11-27,Shopping,85.36,Credit Card
+2026-01-31,Food & Dining,100.05,Debit Card
+2026-01-05,Transportation,29.23,UPI
+2026-01-17,Rent/Mortgage,1237.12,Cash
+2026-01-27,Healthcare,200.45,Credit Card
+2025-10-16,Shopping,127.34,Credit Card
+2026-01-05,Healthcare,26.25,Credit Card
+2025-06-03,Entertainment,296.38,Credit Card
+2026-04-07,Transportation,94.24,Debit Card
+2025-07-23,Transportation,44.42,Debit Card
+2025-09-24,Rent/Mortgage,1291.0,Debit Card
+2025-10-19,Healthcare,240.5,Credit Card
+2025-08-20,Healthcare,142.21,UPI
+2025-07-18,Transportation,99.47,Cash
+2026-02-11,Shopping,99.51,UPI
+2026-03-22,Entertainment,130.17,Credit Card
+2025-06-07,Healthcare,171.61,Cash
+2025-11-01,Shopping,20.27,Credit Card
+2025-07-16,Entertainment,203.46,Credit Card
+2025-12-08,Healthcare,111.45,Debit Card
+2025-10-20,Healthcare,95.07,UPI
+2025-06-01,Rent/Mortgage,845.49,UPI
+2025-06-26,Food & Dining,57.65,Credit Card
+2025-09-24,Rent/Mortgage,742.86,Debit Card
+2025-08-04,Healthcare,285.4,Cash
+2025-08-13,Transportation,277.83,Debit Card
+2025-07-10,Food & Dining,94.91,Cash
+2025-10-01,Healthcare,260.79,Credit Card
+2025-07-13,Healthcare,231.53,Debit Card
+2026-03-13,Rent/Mortgage,799.33,Cash
+2025-10-31,Food & Dining,119.75,Debit Card
+2025-11-06,Rent/Mortgage,1146.1,Debit Card
+2026-01-11,Shopping,108.86,UPI
+2025-10-11,Utilities,178.89,Cash
+2025-09-11,Healthcare,165.49,Cash
+2025-10-20,Healthcare,208.01,Cash
+2025-05-29,Utilities,156.79,UPI
+2025-05-10,Healthcare,175.19,Credit Card
+2026-01-12,Shopping,139.98,Credit Card
+2025-06-30,Food & Dining,67.95,Debit Card
+2025-05-06,Food & Dining,84.08,Credit Card
+2025-06-16,Transportation,168.7,Debit Card
+2025-07-25,Food & Dining,61.21,Debit Card
+2025-09-02,Food & Dining,124.6,UPI
+2025-09-11,Utilities,102.66,Cash
+2025-05-31,Food & Dining,33.72,Cash
+2026-04-14,Utilities,62.33,Cash
+2025-09-30,Healthcare,129.24,Cash
+2025-10-21,Food & Dining,111.09,Cash
+2025-12-22,Utilities,149.81,Cash
+2026-02-09,Entertainment,273.26,Debit Card
+2025-11-15,Transportation,158.52,UPI
+2026-04-13,Food & Dining,131.45,UPI
+2026-02-24,Entertainment,219.57,Credit Card
+2025-11-18,Utilities,249.15,Debit Card
+2025-06-15,Healthcare,68.41,UPI
+2025-07-13,Food & Dining,144.73,UPI
+2025-09-03,Healthcare,111.04,Credit Card
+2026-01-18,Utilities,130.07,Credit Card
+2025-12-10,Shopping,114.79,Credit Card
+2025-07-01,Rent/Mortgage,1182.56,UPI
+2025-06-29,Rent/Mortgage,592.94,Cash
+2025-12-04,Rent/Mortgage,989.28,Cash
+2026-02-10,Healthcare,241.78,Cash
+2026-03-17,Utilities,105.28,Credit Card
+2025-09-12,Transportation,77.11,Credit Card
+2025-09-04,Transportation,73.46,Credit Card
+2025-10-15,Rent/Mortgage,1358.84,UPI
+2026-03-15,Food & Dining,68.07,Credit Card
+2026-02-14,Food & Dining,70.3,Cash
+2025-05-10,Entertainment,230.9,UPI
+2025-08-04,Healthcare,126.08,Debit Card
+2026-04-13,Shopping,61.71,UPI
+2025-09-12,Healthcare,35.66,Cash
+2026-04-02,Transportation,104.02,UPI
+2026-03-27,Utilities,75.67,Credit Card
+2025-10-13,Healthcare,279.93,Cash
+2025-05-30,Shopping,137.2,UPI
+2026-04-09,Food & Dining,132.44,Cash
+2026-01-10,Shopping,84.41,Cash
+2025-07-29,Entertainment,71.67,Cash
+2025-11-20,Rent/Mortgage,834.31,Debit Card
+2025-09-30,Utilities,282.87,Cash
+2025-10-12,Healthcare,66.97,Credit Card
+2025-05-12,Entertainment,195.96,Debit Card
+2025-12-06,Entertainment,163.22,Cash
+2026-01-24,Transportation,150.66,UPI
+2026-01-21,Rent/Mortgage,615.91,Debit Card
+2025-05-13,Rent/Mortgage,979.74,UPI
+2026-01-24,Transportation,128.46,Credit Card
+2025-10-25,Entertainment,298.46,Cash
+2025-10-11,Utilities,29.54,Debit Card
+2025-09-10,Food & Dining,15.48,Cash
+2026-02-22,Healthcare,73.33,Cash
+2025-11-16,Healthcare,59.69,Cash
+2025-11-17,Entertainment,91.37,Cash
+2025-04-26,Shopping,108.16,Debit Card
+2025-06-06,Shopping,67.62,Debit Card
+2025-05-29,Food & Dining,73.35,UPI
+2026-03-21,Shopping,87.77,Debit Card
+2025-10-23,Shopping,114.75,Cash
+2026-02-17,Entertainment,248.07,Credit Card
+2025-09-11,Healthcare,278.42,Credit Card
+2025-11-15,Shopping,121.29,Cash
+2025-08-02,Healthcare,102.38,UPI
+2025-07-18,Utilities,43.81,Debit Card
+2025-12-15,Healthcare,187.22,UPI
+2026-01-16,Rent/Mortgage,859.78,UPI
+2025-07-19,Entertainment,97.0,Cash
+2025-08-29,Transportation,255.84,UPI
+2025-08-26,Shopping,80.75,Cash
+2026-02-24,Healthcare,38.59,Debit Card
+2026-01-02,Food & Dining,24.88,Debit Card
+2026-02-10,Shopping,142.45,Debit Card
+2026-03-09,Entertainment,141.41,Credit Card
+2025-06-05,Shopping,60.68,Credit Card
+2026-03-02,Shopping,96.85,Cash
+2025-04-28,Healthcare,39.34,UPI
+2025-08-03,Utilities,115.01,Cash
+2025-07-23,Entertainment,200.04,UPI
+2025-08-18,Entertainment,295.91,Cash
+2025-10-31,Utilities,200.82,UPI
+2026-03-01,Utilities,20.8,Debit Card
+2025-04-29,Utilities,275.76,Cash
+2025-07-14,Entertainment,95.0,UPI
+2026-01-25,Shopping,122.57,UPI
+2026-02-24,Transportation,256.44,UPI
+2025-10-07,Shopping,50.16,Debit Card
+2026-01-24,Utilities,200.41,Cash
+2025-06-03,Healthcare,221.92,Cash
+2026-02-23,Shopping,121.9,UPI
+2025-12-22,Rent/Mortgage,1025.39,Cash
+2025-07-22,Transportation,234.03,Credit Card
+2026-01-21,Transportation,196.08,Credit Card
+2025-12-07,Food & Dining,109.98,Debit Card
+2026-02-17,Entertainment,67.04,Cash
+2025-12-26,Food & Dining,44.62,Credit Card
+2026-02-08,Transportation,93.43,Credit Card
+2026-02-04,Rent/Mortgage,1114.25,Cash
+2025-10-23,Healthcare,227.86,UPI
+2025-10-24,Food & Dining,139.24,Credit Card
+2025-04-20,Shopping,125.94,Credit Card
+2025-07-16,Rent/Mortgage,635.14,Cash
+2025-09-05,Healthcare,259.16,UPI
+2026-02-05,Utilities,169.24,Cash
+2025-11-24,Transportation,191.72,Cash
+2026-01-14,Food & Dining,135.22,Credit Card
+2025-06-24,Transportation,27.11,Credit Card
+2025-07-13,Transportation,169.17,UPI
+2025-12-14,Food & Dining,125.78,Credit Card
+2026-01-07,Entertainment,206.76,Credit Card
+2025-06-24,Utilities,282.13,Debit Card
+2025-08-07,Utilities,124.34,Cash
+2025-09-18,Entertainment,89.38,UPI
+2025-08-31,Rent/Mortgage,1300.82,Credit Card
+2025-05-11,Transportation,241.91,Credit Card
+2026-01-27,Utilities,63.85,Debit Card
+2025-11-30,Rent/Mortgage,1270.32,Debit Card
+2025-11-13,Rent/Mortgage,677.35,UPI
+2025-09-08,Shopping,61.02,UPI
+2025-10-31,Healthcare,150.0,Debit Card
+2025-07-19,Rent/Mortgage,1314.94,UPI
+2025-12-26,Food & Dining,39.52,Debit Card
+2025-07-25,Transportation,61.34,Cash
+2026-04-02,Rent/Mortgage,922.69,Debit Card
+2026-02-07,Utilities,278.04,Debit Card
+2026-03-11,Utilities,179.07,Cash
+2025-09-25,Healthcare,190.28,Credit Card
+2025-04-26,Shopping,24.08,Credit Card
+2025-05-19,Food & Dining,149.25,UPI
+2025-04-30,Utilities,125.15,Debit Card
+2025-08-18,Utilities,257.4,Debit Card
+2025-09-20,Transportation,116.79,Debit Card
+2025-12-26,Food & Dining,98.94,Credit Card
+2026-03-28,Rent/Mortgage,694.45,Cash
+2025-09-29,Transportation,131.25,UPI
+2025-11-28,Transportation,94.7,Debit Card
+2025-05-23,Rent/Mortgage,1491.2,Debit Card
+2025-05-26,Utilities,216.37,UPI
+2026-01-02,Utilities,30.42,Credit Card
+2025-06-01,Healthcare,191.49,Debit Card
+2026-01-28,Transportation,206.88,UPI
+2026-02-08,Rent/Mortgage,967.67,UPI
+2025-09-18,Transportation,299.34,Cash
+2025-05-27,Shopping,43.6,Debit Card
+2025-05-02,Healthcare,143.33,Credit Card
+2025-05-02,Utilities,63.4,Debit Card
+2025-07-05,Utilities,278.43,Credit Card
+2025-11-06,Shopping,93.2,Debit Card
+2025-09-16,Shopping,142.98,Credit Card
+2025-11-27,Rent/Mortgage,976.81,Debit Card
+2025-10-12,Healthcare,221.53,Credit Card
+2026-01-14,Food & Dining,29.89,UPI
+2025-07-07,Food & Dining,138.87,UPI
+2026-04-09,Utilities,159.69,Cash
+2025-08-24,Healthcare,280.41,Credit Card
+2026-01-12,Utilities,255.22,UPI
+2025-06-19,Transportation,181.37,Debit Card
+2025-12-17,Shopping,17.92,UPI
+2026-02-08,Food & Dining,76.67,Debit Card
+2025-08-29,Rent/Mortgage,1430.63,Debit Card
+2025-11-20,Entertainment,73.02,UPI
+2025-10-20,Utilities,239.23,UPI
+2025-08-19,Healthcare,291.6,Credit Card
+2025-12-18,Utilities,283.97,Debit Card
+2025-11-18,Entertainment,47.36,Cash
+2026-01-20,Shopping,80.07,UPI
+2025-05-11,Shopping,43.03,UPI
+2025-06-26,Utilities,43.37,UPI
+2025-06-06,Utilities,185.76,UPI
+2025-08-28,Transportation,27.26,Credit Card
+2025-08-02,Healthcare,262.06,Credit Card
+2026-03-24,Rent/Mortgage,814.82,Credit Card
+2025-06-08,Transportation,92.07,Cash
+2025-07-03,Rent/Mortgage,1024.54,Debit Card
+2025-10-24,Transportation,89.69,Cash
+2026-02-09,Rent/Mortgage,1269.99,UPI
+2025-12-26,Rent/Mortgage,1483.64,Cash
+2026-01-08,Entertainment,272.95,Credit Card
+2026-02-12,Utilities,96.72,Credit Card
+2025-09-24,Healthcare,120.45,UPI
+2025-07-01,Rent/Mortgage,1116.68,Debit Card
+2025-10-18,Rent/Mortgage,1378.94,Cash
+2026-02-11,Healthcare,79.7,Cash
+2025-10-15,Shopping,37.83,Cash
+2025-10-28,Shopping,25.64,Debit Card
+2026-02-06,Transportation,183.01,Cash
+2025-12-01,Healthcare,229.99,UPI
+2025-05-25,Utilities,259.24,Credit Card
+2026-01-17,Entertainment,212.54,Debit Card
+2025-05-11,Food & Dining,146.11,Cash
+2025-12-28,Rent/Mortgage,550.27,Debit Card
+2026-03-11,Shopping,99.49,Credit Card
+2026-03-29,Shopping,16.76,Credit Card
+2026-02-25,Utilities,107.3,UPI
+2025-06-17,Entertainment,289.86,Credit Card
+2026-03-31,Shopping,68.59,Credit Card
+2025-10-26,Utilities,37.95,UPI
+2025-09-26,Rent/Mortgage,1061.16,Credit Card
+2025-08-18,Rent/Mortgage,1472.72,UPI
+2025-05-15,Rent/Mortgage,971.46,Cash
+2026-01-15,Rent/Mortgage,880.35,Credit Card
+2025-05-28,Transportation,288.46,UPI
+2025-11-25,Rent/Mortgage,691.0,UPI
+2026-01-31,Healthcare,123.15,Debit Card
+2025-11-27,Healthcare,231.98,UPI
+2025-12-04,Healthcare,65.81,Credit Card
+2026-02-12,Healthcare,293.26,Credit Card
+2025-09-03,Entertainment,98.9,UPI
+2025-05-10,Shopping,82.62,Debit Card
+2025-08-09,Utilities,107.35,Cash
+2025-10-30,Utilities,184.58,Cash
+2025-07-30,Utilities,188.77,Debit Card
+2025-10-31,Entertainment,99.43,Credit Card
+2025-04-25,Entertainment,109.71,Cash
+2025-09-06,Rent/Mortgage,822.24,Debit Card
+2025-04-18,Transportation,217.18,UPI
+2026-04-10,Transportation,220.07,UPI
+2026-01-22,Shopping,97.7,UPI
+2025-10-24,Transportation,101.05,Cash
+2025-12-24,Shopping,67.63,Cash
+2025-05-25,Transportation,109.95,Cash
+2025-10-12,Healthcare,137.42,Debit Card
+2025-11-16,Healthcare,298.33,Cash
+2025-06-04,Healthcare,124.3,Cash
+2025-06-04,Healthcare,163.25,Debit Card
+2025-04-19,Rent/Mortgage,544.1,Debit Card
+2025-06-14,Utilities,91.21,Cash
+2025-06-25,Healthcare,175.94,Cash
+2025-11-30,Shopping,77.36,Cash
+2026-03-14,Healthcare,128.11,Credit Card
+2026-04-08,Utilities,48.5,Credit Card
+2025-05-17,Healthcare,138.06,UPI
+2025-10-29,Healthcare,273.31,Debit Card
+2025-09-24,Food & Dining,104.18,Debit Card
+2025-10-15,Rent/Mortgage,550.42,Cash
+2025-05-14,Utilities,238.52,Cash
+2025-11-14,Rent/Mortgage,633.66,UPI
+2026-02-13,Entertainment,184.75,Debit Card
+2025-07-13,Shopping,59.55,Cash
+2025-08-03,Transportation,194.82,Debit Card
+2025-09-27,Utilities,179.54,UPI
+2025-11-30,Entertainment,248.18,Cash
+2025-05-08,Healthcare,51.26,Credit Card
+2025-08-23,Healthcare,275.41,UPI
+2025-10-24,Shopping,125.65,Debit Card
+2025-12-29,Rent/Mortgage,1476.85,UPI
+2025-07-28,Healthcare,117.14,Debit Card
+2025-08-27,Healthcare,232.85,Debit Card
+2025-07-18,Food & Dining,117.69,UPI
+2026-01-19,Transportation,262.28,Cash
+2026-04-16,Entertainment,219.03,Cash
+2026-04-04,Shopping,121.64,Cash
+2025-07-08,Food & Dining,17.33,Cash
+2025-04-22,Shopping,140.74,Credit Card
+2026-04-08,Rent/Mortgage,826.99,Cash
+2025-11-20,Healthcare,44.09,Debit Card
+2026-04-03,Rent/Mortgage,991.08,Debit Card
+2025-06-14,Utilities,210.72,Cash
+2025-10-18,Food & Dining,22.33,Debit Card
+2026-02-23,Food & Dining,98.26,Cash
+2025-05-10,Healthcare,284.88,UPI
+2025-11-30,Food & Dining,100.88,Cash
+2026-03-15,Entertainment,155.79,Cash
+2026-04-01,Transportation,206.55,Cash
+2025-07-01,Food & Dining,65.26,Debit Card
+2025-07-10,Transportation,90.82,Credit Card
+2025-07-22,Rent/Mortgage,1416.74,UPI
+2025-12-14,Transportation,273.9,Cash
+2025-07-27,Shopping,92.7,UPI
+2025-07-18,Rent/Mortgage,506.26,Debit Card
+2025-07-15,Entertainment,192.02,Debit Card
+2026-02-13,Shopping,71.0,Cash
+2026-04-01,Rent/Mortgage,1321.43,Debit Card
+2025-09-02,Healthcare,175.94,Cash
+2025-08-28,Entertainment,145.02,Cash
+2026-01-03,Entertainment,117.73,UPI
+2026-02-05,Transportation,101.61,Cash
+2025-10-10,Rent/Mortgage,849.13,Debit Card
+2025-07-09,Food & Dining,132.89,Credit Card
+2025-07-27,Food & Dining,96.76,Credit Card
+2025-12-10,Transportation,118.73,Cash
+2026-01-21,Rent/Mortgage,903.51,Debit Card
+2025-08-04,Transportation,232.25,UPI
+2025-06-15,Shopping,28.77,UPI
+2026-04-02,Healthcare,254.41,UPI
+2025-07-08,Shopping,40.39,Debit Card
+2025-05-23,Rent/Mortgage,1132.72,Credit Card
+2025-04-27,Food & Dining,66.25,Cash
+2025-05-13,Shopping,107.52,Cash
+2025-07-26,Utilities,294.09,Credit Card
+2025-07-15,Shopping,129.77,Debit Card
+2025-09-26,Transportation,23.84,Cash
+2025-11-06,Shopping,144.22,Cash
+2025-05-14,Utilities,88.68,Cash
+2025-07-28,Healthcare,297.12,Debit Card
+2026-02-17,Food & Dining,67.25,Credit Card
+2025-05-30,Transportation,266.09,Debit Card
+2026-03-20,Entertainment,28.19,UPI
+2025-12-10,Entertainment,183.11,UPI
+2025-08-26,Transportation,219.98,Debit Card
+2025-05-18,Transportation,116.06,Debit Card
+2025-12-14,Rent/Mortgage,584.15,Credit Card
+2026-04-11,Shopping,48.86,Cash
+2025-09-30,Rent/Mortgage,1259.22,UPI
+2026-02-19,Transportation,180.22,Credit Card
+2025-11-01,Rent/Mortgage,584.79,Cash
+2026-01-23,Food & Dining,51.63,Debit Card
+2025-09-21,Healthcare,270.93,UPI
+2025-07-24,Utilities,202.84,UPI
+2025-08-27,Rent/Mortgage,827.1,Credit Card
+2026-02-05,Healthcare,287.24,Credit Card
+2026-03-16,Food & Dining,82.68,UPI
+2025-11-13,Entertainment,70.84,Credit Card
+2025-10-22,Food & Dining,62.29,UPI
+2025-12-19,Utilities,103.05,Cash
+2026-04-13,Shopping,30.23,Cash
+2026-01-19,Food & Dining,106.22,Cash
